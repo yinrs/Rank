@@ -5,7 +5,9 @@ import redis.clients.jedis.Tuple;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
-
+/**
+ * @author ohun@live.cn
+ */
 public interface CacheManager {
 
     void init();

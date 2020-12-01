@@ -10,6 +10,9 @@ import java.util.Locale;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * @author ohun@live.cn
+ */
 public class CC {
     static Config cfg = load();
 
